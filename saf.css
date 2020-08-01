@@ -1,0 +1,40 @@
+.line{
+    background-color: gray;
+    height: 50px;
+    
+
+}
+.d{
+    height: 200px;
+    width: 450px;
+}
+ol{
+    display: flex;
+    list-style: none;
+    padding-left: 0.05px;
+}
+.under{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+li{
+    padding-top: 90px;
+    padding-right: 30px;
+    justify-content: space-between;
+    
+}
+}
+.tyt{
+    width: 100%;
+    height:40%;
+}
+p{
+    padding-left: 80px;
+    padding-top: 15px;
+    color: white;
+    font-weight: bold;
+}
+.one{
+    padding-left: 0.5%;
+}
